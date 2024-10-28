@@ -1,3 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenlouisedev&show_icons=true&theme=transparent)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakaTime?username=ffflabs)](https://github.com/ellenlouisedev/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
